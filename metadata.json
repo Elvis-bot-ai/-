@@ -1,0 +1,8 @@
+{
+  "name": "QFII - 智能研报0112版本",
+  "description": "基于Gemini 3 Pro的专业级A股/亚股投资分析智能体，模拟20年经验QFII投资总监视角，提供深度研报、技术面分析及股价预测。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
